@@ -1,1 +1,1 @@
-# Criptografia-usando-Chaves-Sim-tricas-e-Assim-tricas
+# Criptografia-usando-Chaves-Simétricas-e-Assimétricas
